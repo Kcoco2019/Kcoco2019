@@ -1,5 +1,4 @@
-Hewwo, I’m Kewi
-I'm not too much of a coding savant, but I like to build things and mess around when I can.✨
+
 
 
 <!---
